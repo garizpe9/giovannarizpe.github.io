@@ -1,2 +1,2 @@
 # giovannarizpe.github.io
-My Simple Page
+Demo Git Pages
