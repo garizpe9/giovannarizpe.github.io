@@ -67,6 +67,8 @@ p {
     margin-right: 20px;
 }
 
+/* Right side of screen */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -121,6 +123,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* left side of screen */
+/* VVVVV ask how to group these, it should be possible...VVVVVV */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -128,10 +132,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;   
-    float: left;
-    margin-right: 25px;
-    
+    float: left;    
 }
 
 .online-reputation-management {
@@ -140,11 +141,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
-    float: right;
-    margin-left: 25px;
-    
-    
+    float: left; 
 }
 
 .social-media-marketing {
@@ -153,9 +150,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
     float: left;
-    margin-left: 25px;
 }
 
 .search-engine-optimization img {
@@ -176,17 +171,26 @@ p {
     margin-right: 25px;
 }
 
+/* ^^^^^ ask how to group these, it should be possible...^^^^ */
+
+
 h2 { margin-bottom: 20px;
     font-size: 36px;
 }
+
+
+/* Footer */
 
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    color: black
 }
 
 .footer h2 {
     font-size: 20px;
+    margin-bottom: 0px;
+    
 }
