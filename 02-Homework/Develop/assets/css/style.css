@@ -60,12 +60,11 @@ p {
     background-size: cover;
     background-position: center;
 }
-.content {
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding: 50px;
         
 }
 /* VVVVV ask how to group these, it should be possible...VVVVVV */
